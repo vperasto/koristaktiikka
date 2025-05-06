@@ -1,2 +1,2 @@
-# koristaktiikka
-Koristaktiikka - Strategy board, taktiikkataulu
+# Koristaktiikka - Strategy board
+
